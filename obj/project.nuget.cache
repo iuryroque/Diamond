@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+bGlq7dpZDK6XFzh8wyYXqPll1Q4dlP13tgIRT9HByArwTmygXXtts/gjXFdVP2E5K22ixSdjqB41IfLiNfdQ==",
+  "success": true,
+  "projectFilePath": "/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/Diamond.csproj",
+  "expectedPackageFiles": [
+    "/home/iuryroque/.nuget/packages/fluentassertions/6.5.1/fluentassertions.6.5.1.nupkg.sha512",
+    "/home/iuryroque/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/home/iuryroque/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

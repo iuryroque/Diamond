@@ -1,0 +1,15 @@
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.csproj.AssemblyReference.cache
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.GeneratedMSBuildEditorConfig.editorconfig
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.AssemblyInfoInputs.cache
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.AssemblyInfo.cs
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.csproj.CoreCompileInputs.cache
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/bin/Debug/net6.0/Diamond
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/bin/Debug/net6.0/Diamond.deps.json
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/bin/Debug/net6.0/Diamond.runtimeconfig.json
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/bin/Debug/net6.0/Diamond.dll
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/bin/Debug/net6.0/Diamond.pdb
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.dll
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/refint/Diamond.dll
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.pdb
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/Diamond.genruntimeconfig.cache
+/home/iuryroque/Documents/Aceleracao/Atividade_Avaliativa/Diamond/obj/Debug/net6.0/ref/Diamond.dll
